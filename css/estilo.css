@@ -1,0 +1,29 @@
+.bgcontato{
+    background: beige;
+}
+
+.aviso{
+    color: aliceblue;
+    font-family: "Agency FB";
+}
+
+
+.texto{
+
+    font-size: 25px;
+}
+
+
+.enviar{
+    padding-left: 170px;
+    padding-top: 25px;
+}
+
+.formu{
+    padding-top: 80px;
+}
+
+.input-group{
+    padding-bottom: 10px;
+
+}
